@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @azam-sultan
+- 🌎 I'm a full-stack web developer
+- 👀 I’m interested in MERN and ROR 
+- 🌱 I’m currently working at Devsinc as ROR developer ...
